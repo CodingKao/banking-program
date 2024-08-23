@@ -30,3 +30,5 @@ while is_running:
         withdraw()
     elif choice == '4':
         is_running = False
+    else:
+        print("That is not a valid choice")
