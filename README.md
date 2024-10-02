@@ -28,4 +28,3 @@ This application was developed by following a YouTube tutorial. If you’re inte
 
 [Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=8aW3tkIul-8)
 
-Time: 3.42
